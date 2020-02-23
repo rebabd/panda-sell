@@ -1,0 +1,45 @@
+.container{
+    margin-bottom: 50px;
+}
+#nav-item img{
+    width:150px;
+    padding-top: 20px;
+}
+h1{
+    color:black;
+}
+p{
+    color:gray;
+}
+.btn-black{
+    background-color: black;
+    color:white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 30px;
+}
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    background-color: #F22784;
+    border-radius: 50%;
+}   
+.small{
+    color:orange;
+}
+.card{
+    border:none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+    padding: 30px;
+}
+.card-body h5{
+    text-align: center;
+}
+.card-body p{
+    text-align: center;
+    color:gray;
+    padding-bottom: 10px;
+}
+.card-body .btn-black{
+    margin-left: 50px;
+    margin-top: 10px;
+}   
