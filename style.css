@@ -63,3 +63,8 @@ p{
 
  
 }
+footer p{
+    text-align: center;
+    color:gray;
+    padding: 10px;
+}
